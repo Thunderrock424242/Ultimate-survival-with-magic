@@ -11,6 +11,15 @@ body:
     options:
     - label: I have searched the existing issues
       required: true
+      - type: checkboxes
+  attributes:
+    label: general info
+    description: You may select more than one.
+    options:
+    - label: I did not add any mods.
+    - label: I can reproduce this issue consistently in single-player
+    - label:  I can reproduce this issue consistently in multi-player
+      required: true
 - type: textarea
   attributes:
     label: Current Behavior
