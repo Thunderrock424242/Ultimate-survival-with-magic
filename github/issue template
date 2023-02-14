@@ -1,0 +1,30 @@
+NAME YOUR ISSUE PROPERLY! DON'T LEAVE THE TITLE EMPTY
+
+WE DO NOT PROVIDE SUPPORT TO HEAVILY MODIFIED MODPACKS. OUR PACK IS CURATED FOR WORKABILITY AND NO CONTENT OVERLAP, NOT ADDING ADDITIONAL MODS TO. If you have any mods added by yourself -- first uninstall it and confirm the issue still occurs.
+
+General Info
+You may select more than one.
+
+ I didn't added any mods
+ I can reproduce this issue consistently in single-player
+ I can reproduce this issue consistently in multi-player
+ I have searched for this issue previously and it was either (1) not previously reported, or (2) previously fixed and I am having the same problem. *
+ I am crashing and can provide my crash report(s)
+ I am using the latest version of the modpack
+Your launcher
+ex. Curseforge, GDL, ATLauncher
+Modpack version
+ex. 1.18.2
+Describe your issue
+A clear and concise description of what the bug is.
+
+A bug happened!
+Steps to reproduce the issue
+A clear and concise description of what the bug is.
+
+1. Go to...; 2. Click on...; 3. Use that...
+Additional Information
+Please post crash report(located in crash-reports folder) and latest.log(located in logs folder), screenshots, etc. here. (use Pastebin.com, gist.github.com or Imgur.com accordingly).
+
+If the pack is crashing please provide the latest.log from the logs folder of your instance.
+! ! ! PLEASE PROVIDE ANY TYPE OF LOGS. REPORTS WITHOUT LOGS OR CRASH-REPORTS WILL BE CLOSED WITHOUT REVIEWING ! !
