@@ -16,14 +16,14 @@ body:
       required: true
 - type: textarea
   attributes:
-    label: Current Behavior
-    description: A concise description of what you're experiencing.
+    label: Your launcher version
+    description: for example curseforge.
   validations:
     required: false
 - type: textarea
   attributes:
-    label: Expected Behavior
-    description: A concise description of what you expected to happen.
+    label: Modpack version
+    description: for example 1.0 or .05
   validations:
     required: false
 - type: textarea
