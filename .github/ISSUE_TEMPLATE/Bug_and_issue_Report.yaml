@@ -28,28 +28,14 @@ body:
     required: false
 - type: textarea
   attributes:
-    label: Steps To Reproduce
-    description: Steps to reproduce the behavior.
-    placeholder: |
-      1. In this environment...
-      2. With this config...
-      3. Run '...'
-      4. See error...
+    label: Descripbe your issue
+    description: A clear and concise description of what the bug is.
   validations:
     required: false
 - type: textarea
   attributes:
-    label: Environment
-    description: |
-      examples:
-        - **OS**: Ubuntu 20.04
-        - **Node**: 13.14.0
-        - **npm**: 7.6.3
-    value: |
-        - OS:
-        - Node:
-        - npm:
-    render: markdown
+    label: reproducue steps
+    description: 1. go for a walk 2. jump 3. run
   validations:
     required: false
 - type: textarea
