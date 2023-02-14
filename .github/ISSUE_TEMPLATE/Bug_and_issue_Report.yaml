@@ -7,7 +7,7 @@ body:
 - type: checkboxes
   attributes:
     label: Is there an existing issue for this?
-    description: Please search to see if an issue already exists for the bug you encountered.
+    description: Please search to see if an issue already exists for the bug you encountered.if there is another post about this issue don't post this. If what happend to you is simlar but diffrent then you can post it.
     options:
     - label: I have searched the existing issues
       required: true
