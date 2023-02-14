@@ -6,12 +6,13 @@ labels: [Bug, Needs Triage]
 body:
  - type: checkboxes
   attributes:
-    label: general info
+    label: General Info
     description: You may select more than one.
     options:
     - label: I did not add any mods.
     - label: I can reproduce this issue consistently in single-player
-    - label:  I can reproduce this issue consistently in multi-player
+    - label: I can reproduce this issue consistently in multi-player
+    - label: I am crashing and can provide my crash report(s)
       required: true
 - type: textarea
   attributes:
